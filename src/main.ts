@@ -12,3 +12,5 @@ platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.error(err));
 
 //Added a comment for the Git demo session.
+
+//Added this line in dev branch.
